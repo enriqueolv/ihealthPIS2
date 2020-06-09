@@ -1,0 +1,18 @@
+SMAP
+dir_005fmedico_jsp.java
+JSP
+*S JSP
+*F
++ 0 dir_medico.jsp
+portal_clientes/dir_medico.jsp
++ 1 navbar.html
+WEB-INF/navbar.html
++ 2 footer.jsp
+WEB-INF/footer.jsp
+*L
+5,6:50
+1#1,54:55
+10#0,55:108
+5#2,40:162
+64#0,3:201
+*E
